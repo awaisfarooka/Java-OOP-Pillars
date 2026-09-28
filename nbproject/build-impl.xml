@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Java-OOP-Pillars-impl" default="default" basedir="..">
+    <target name="default">
+        <echo message="Open this project in NetBeans and run any Java class."/>
+    </target>
+</project>
